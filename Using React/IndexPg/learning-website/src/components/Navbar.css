@@ -1,0 +1,59 @@
+*{
+
+    font-family:'Poppins', sans-serif; 
+}
+
+
+
+
+.logo{
+
+    width:100px;
+    height:100px;
+    display:inline;
+}
+
+
+
+.nav1{
+    background-color: white;
+   
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+
+ul,li{
+    display:inline;
+}
+
+li{
+    
+    padding:24px; 
+    transition: all 0.2s ease; 
+}
+
+li:hover{
+    background-color: #4CAF81;
+    color:white;
+    
+    
+}
+
+.signup{
+   padding-left:43%;
+   display:flex;
+  
+   
+}
+
+.signup li:hover{
+
+    border-radius: 80px;
+}
+
+ul{
+    margin-left:-2%;
+}
+

@@ -1,0 +1,29 @@
+.last{
+    background-color:#7bd1a9;
+    margin-top:10%;
+    width:1600px;
+    height:400px;
+    display:flex;
+}
+
+.b2,.b3,.b4{
+    margin-left: 6%;
+    margin-top:4%;
+    line-height:2.2;
+    font-size: 20px;
+    color:black;
+   
+}
+.b1{
+    margin-left: 4%;
+    margin-top:4%;
+    line-height:2.2;
+    font-size: 20px;
+    color:black;
+    
+}
+
+.imagee{
+    padding-left:4%;
+    padding-top:4%;
+}

@@ -1,0 +1,63 @@
+.banner{
+
+    width:1600px;
+    height:430px;
+}
+
+
+
+.banner-container{
+
+    position:relative;
+
+}
+
+.banner-content {
+    position: absolute;
+    top:20%;
+    left:10%;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 6px 30px;
+    border-radius: 10px;
+    width: 650px;
+    height:230px;
+    font-size: 25px;
+    padding-bottom: 37px;
+    font-family:'Poppins', sans-serif; 
+  }
+
+
+    .search-box {
+
+        margin-top:-2%;
+          
+    }
+    
+
+.search-box input{
+    width:450px;
+    height:40px;
+    border:2px solid black;
+    border-radius: 10px;
+    padding-left:10px;
+   
+}
+
+.search-box button{
+
+    width:90px;
+    height:40px;
+    background-color:  #F65E5A;
+    border:2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left:6px;
+    transition: transform 0.2s ease;
+
+}
+
+.search-box button:hover{
+
+    transform:scale(1.05)
+
+}
